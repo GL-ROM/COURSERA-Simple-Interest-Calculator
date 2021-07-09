@@ -1,7 +1,7 @@
 body {
     background-color:black;
     font-family:arial;
-    color: white;
+    color:white;
     }
 h1 {
     color:gray;
@@ -18,5 +18,13 @@ h1 {
 footer {
     margin:auto;
     text-align:center;
+}
+button {
+    margin: 5px 0px 5px 0px;
+}
+
+.number {
+    background-color: yellow;
+    font-weight: bolder;
 }
 
